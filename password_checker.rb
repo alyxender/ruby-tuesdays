@@ -1,10 +1,10 @@
-# User ID and password cannot be the same.
-# User ID and password have to be at least six characters long.
-# Password has to contain at least one of: !#$
-# User ID cannot contain the following characters: !#$ or spaces
-# Password cannot be the word “password”.
-# As a user, I can enter my user ID and password and find out if the they are acceptable.
-#As a user, my password has to contain at least one digit.
+    # User ID and password cannot be the same.
+    # User ID and password have to be at least six characters long.
+    # Password has to contain at least one of: !#$
+    # User ID cannot contain the following characters: !#$ or spaces
+    # Password cannot be the word “password”.
+    # As a user, I can enter my user ID and password and find out if the they are acceptable.
+    #As a user, my password has to contain at least one digit.
 
 
 password = “#{password}”
